@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv1345&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv1345" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dhruv1312gupta" target="blank"><img src="https://img.shields.io/twitter/follow/dhruv1312gupta?logo=twitter&style=for-the-badge" alt="dhruv1312gupta" /></a> </p>
-
 Data Structures and Algorithms & Web Development made me fall in love with coding and building exciting products! I have a soft spot for technology and communities ❤️
 
 - 🌏 I’m based in **India**
@@ -14,6 +12,8 @@ Data Structures and Algorithms & Web Development made me fall in love with codin
 - 🌱 I’m currently learning **Flutter**
 
 - 📝 I regularly write articles on [https://medium.com/@guptadhruv1345](https://medium.com/@guptadhruv1345)
+
+<p align="left"> <a href="https://twitter.com/dhruv1312gupta" target="blank"><img src="https://img.shields.io/twitter/follow/dhruv1312gupta?logo=twitter&style=for-the-badge" alt="dhruv1312gupta" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
