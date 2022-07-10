@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv1345&label=Profile%20views&color=cd5c5c&style=flat" alt="dhruv1345" /> </p>
 
-Data Structures and Algorithms & Web Development made me fall in love with coding and building exciting products! I have a soft spot for technology and communities ❤️
+<!-- Data Structures and Algorithms & Web Development made me fall in love with coding and building exciting products! I have a soft spot for technology and communities ❤️ -->
 
 - 🌏 I’m based in **India**
 
