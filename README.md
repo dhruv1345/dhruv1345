@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, My name is Dhruv Gupta</h1>
 <h3 align="center">Coder and Developer</h3>
 
-<img src="https://gist.github.com/abhirampai/ce94b0b8345cd969d3cf997578487cdd.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv1345&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv1345" /> </p>
 
