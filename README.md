@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, My name is Dhruv Gupta</h1>
 <h3 align="center">Coder and Developer</h3>
 
-
+(img align="center" alt="Coding" width="400" src="https://octodex.github.com/daftpunktocat-guy/")
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv1345&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv1345" /> </p>
 
 - 🌏 I’m based in **India**
