@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv1345&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv1345" /> </p>
 
+<p align="left"> <a href="https://twitter.com/dhruv1312gupta" target="blank"><img src="https://img.shields.io/twitter/follow/dhruv1312gupta?logo=twitter&style=for-the-badge" alt="dhruv1312gupta" /></a> </p>
+
 Data Structures and Algorithms & Web Development made me fall in love with coding and building exciting products! I have a soft spot for technology and communities ❤️
 
 - 🌏 I’m based in **India**
@@ -17,6 +19,7 @@ Data Structures and Algorithms & Web Development made me fall in love with codin
 <p align="left">
 <a href="https://twitter.com/dhruv1312gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruv1312gupta" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dhruv-gupta-4381921b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv-gupta-4381921b5" height="30" width="40" /></a>
+<a href="https://medium.com/https://medium.com/@guptadhruv1345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@guptadhruv1345" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dhruvguptajee100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhruvguptajee100" height="30" width="40" /></a>
 </p>
 
