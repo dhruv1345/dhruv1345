@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, My name is Dhruv Gupta</h1>
 <h3 align="center">Coder and Developer</h3>
 
-<img align="center" alt="Coding" width="400" src="![daftpunktocat-guy](https://user-images.githubusercontent.com/86596711/178133889-b22155b6-a860-4750-a5bc-96c5e602c5fe.gif)">
+![github](https://gist.github.com/abhirampai/ce94b0b8345cd969d3cf997578487cdd)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv1345&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv1345" /> </p>
 
 - 🌏 I’m based in **India**
