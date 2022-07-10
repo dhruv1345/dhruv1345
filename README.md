@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, My name is Dhruv Gupta</h1>
 <h3 align="center">Coder and Developer</h3>
+![daftpunktocat-guy](https://user-images.githubusercontent.com/86596711/178134036-1e7a0875-f4af-4371-a04f-c47b246c803c.gif)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv1345&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv1345" /> </p>
+
+Data Structures and Algorithms & Web Development made me fall in love with coding and building exciting products! I have a soft spot for technology and communities ❤️
 
 - 🌏 I’m based in **India**
 
