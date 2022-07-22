@@ -26,7 +26,7 @@ Data Structures and Algorithms & Web Development made me fall in love with codin
 <p align="left">
 <a href="https://twitter.com/dhruv1312gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruv1312gupta" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dhruv-gupta-4381921b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv-gupta-4381921b5" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@guptadhruv1345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@guptadhruv1345" height="30" width="40" /></a>
+<a href="https://medium.com/@guptadhruv1345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@guptadhruv1345" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dhruvguptajee100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhruvguptajee100" height="30" width="40" /></a>
 </p>
 
