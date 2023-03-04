@@ -35,4 +35,4 @@ Data Structures and Algorithms & Web Development made me fall in love with codin
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv1345&" alt="dhruv1345" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruv1345)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruv1345)](https://github.com/anuraghazra/github-readme-stats)
