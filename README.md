@@ -18,7 +18,7 @@ Data Structures and Algorithms & Web Development made me fall in love with codin
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📝 I regularly write articles on <a href="[https://medium.com/@guptadhruv1345](https://medium.com/@guptadhruv1345)">Medium.com</a>
+- 📝 I regularly write articles on [https://medium.com/@guptadhruv1345](https://medium.com/@guptadhruv1345)
 
 <p align="left"> <a href="https://twitter.com/dhruv1312gupta" target="blank"><img src="https://img.shields.io/twitter/follow/dhruv1312gupta?logo=twitter&style=for-the-badge" alt="dhruv1312gupta" /></a> </p>
 
