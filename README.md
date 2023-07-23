@@ -1,16 +1,9 @@
 <h1 align="center">Hi 👋, My name is Dhruv Gupta</h1>
 <h3 align="center">An App developer & exploring Data field</h3>
+<h4 align="center">Converting Ideas into Tech Solutions</h4>
+<br/>
 
-<!-- <p align="center" dir="auto"> <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/fa22a95c9000d4e4914bc5de9fb94adde07fc0123f0f91ed0f2c3b7bd0240fcb/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d74686f6d61732e676966" data-target="animated-image.originalLink" hidden="">
-<!-- <img src="https://camo.githubusercontent.com/fa22a95c9000d4e4914bc5de9fb94adde07fc0123f0f91ed0f2c3b7bd0240fcb/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d74686f6d61732e676966" height="160px" width="160px" data-canonical-src="https://octodex.github.com/images/daftpunktocat-thomas.gif" style="max-width: 100%;" data-target="animated-image.originalImage" hidden=""></a>
-<span class="AnimatedImagePlayer" data-target="animated-image.player">
-<a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/fa22a95c9000d4e4914bc5de9fb94adde07fc0123f0f91ed0f2c3b7bd0240fcb/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d74686f6d61732e676966" target="_blank" hidden="">
- -->
- 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv1345&label=Profile%20views&color=cd5c5c&style=flat" alt="dhruv1345" /> </p>
-
-I practice Leetcode and CF on regular basis & take up app dev projects as well. I love to attend technical meet-ups and connect with tech enthusiasts in industry. 
+<h4>I practice Leetcode and CF on regular basis & take up app dev projects as well. I love to attend technical meet-ups and connect with tech enthusiasts in industry.</h4>
 
 - 😉 If you want and App or Website, Do connect with me. Let's Discuss.
 
@@ -21,8 +14,6 @@ I practice Leetcode and CF on regular basis & take up app dev projects as well. 
 - 🌱 I’m currently learning **Flutter**
 
 - 📝 I regularly write articles on [https://medium.com/@guptadhruv1345](https://medium.com/@guptadhruv1345)
-
-<p align="left"> <a href="https://twitter.com/dhruv1312gupta" target="blank"><img src="https://img.shields.io/twitter/follow/dhruv1312gupta?logo=twitter&style=for-the-badge" alt="dhruv1312gupta" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
