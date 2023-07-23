@@ -10,7 +10,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv1345&label=Profile%20views&color=cd5c5c&style=flat" alt="dhruv1345" /> </p>
 
-Data Structures and Algorithms & Web Development made me fall in love with coding and building exciting products! I have a soft spot for technology and communities ❤️
+I practice Leetcode and CF on regular basis & take up app dev projects as well. I love to attend technical meet-ups and connect with tech enthusiasts in industry. 
+
+- 😉 If you want and App or Website, Do connect with me. Let's Discuss.
 
 - 🌏 I’m based in **India**
 
