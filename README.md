@@ -3,7 +3,7 @@
 <h4 align="center">Converting Ideas into Tech Solutions</h4>
 <br/>
 
-<h4>I practice Leetcode and CF on regular basis & take up app dev projects as well. I love to attend technical meet-ups and connect with tech enthusiasts in industry.</h4>
+I practice Leetcode and CF on regular basis & take up app dev projects as well. I love to attend technical meet-ups and connect with tech enthusiasts in industry.
 
 - 😉 If you want and App or Website, Do connect with me. Let's Discuss.
 
