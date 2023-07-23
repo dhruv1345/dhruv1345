@@ -4,6 +4,15 @@
 <br/>
 
 I practice Leetcode and CF on regular basis & take up app dev projects as well. I love to attend technical meet-ups and connect with tech enthusiasts in industry.
+I am a tech Evangelist and I'm pretty much interested in coding. 
+My favourite languages are : CPP, python.
+I also know how to built Android and iOS apps using flutter.
+
+I started Code-charm. The platform where students can connect with peers and also learn new technologies and discuss problems among them. I have taught up to 100+ students up till now. 
+
+I love public speaking. I like to take webinars and workshops as well.
+
+If you want to get some tips OR you want to learn to code DM me or you can hit me up on my Email or Connect with me on Linkedin.
 
 - 😉 If you want and App or Website, Do connect with me. Let's Discuss.
 
