@@ -41,5 +41,5 @@ If you want to get some tips OR you want to learn to code DM me or you can hit m
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv1345&" alt="dhruv1345" /></p>
 
-
+[![An image of @dhruv1345's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhruv1345)](https://holopin.io/@dhruv1345)
 
