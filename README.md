@@ -6,6 +6,10 @@
 
 <br/>
 
+
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif", width="800"/>
+</p>
 <p align="center">
     <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
 </p>
@@ -25,15 +29,6 @@ If you want tips or want to learn to code, DM me or hit me up via email or Linke
 - 📝 I regularly write articles on [Medium](https://medium.com/@guptadhruv1345)
 - 📧 Contact me at **guptadhruv1345@gmail.com**
 
-
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif", width="800"/>
-</p>
-
-
-<p align="center">
-    <img src="https://media.giphy.com/media/1n6V5fLTLUkikx7lbN/giphy.gif" width="300"/>
-</p>
 
 ---
 
