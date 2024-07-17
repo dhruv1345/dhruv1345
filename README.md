@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Dhruv Gupta</h1>
-<h3 align="center">App Developer & Data Explorer</h3>
+<h3 align="center">App Developer & Machine Learning Engineer</h3>
 <h4 align="center">Converting Ideas into Tech Solutions</h4>
 
 <br/>
@@ -9,9 +9,6 @@
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif", width="800"/>
-</p>
-<p align="center">
-    <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
 </p>
 
 I practice Leetcode and Codeforces regularly and take up app development projects. I love attending technical meet-ups and connecting with tech enthusiasts. I'm a tech evangelist and passionate about coding. 
@@ -49,6 +46,9 @@ If you want tips or want to learn to code, DM me or hit me up via email or Linke
 </p>
 
 ---
+
+![image](https://github.com/user-attachments/assets/f695c5ed-55e7-4610-bb06-e47275ec070c)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
