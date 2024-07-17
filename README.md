@@ -112,4 +112,7 @@ If you want tips or want to learn to code, DM me or hit me up via email or Linke
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv1345&" alt="dhruv1345" /></p>
 
-[![An image of @dhruv1345's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhruv1345)](https://holopin.io/@dhruv1345)
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="200"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="200"/>
+</p>
