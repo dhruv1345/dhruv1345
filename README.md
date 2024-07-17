@@ -25,6 +25,10 @@ If you want tips or want to learn to code, DM me or hit me up via email or Linke
 - 📝 I regularly write articles on [Medium](https://medium.com/@guptadhruv1345)
 - 📧 Contact me at **guptadhruv1345@gmail.com**
 
+<p align="center">
+    <img src="https://media.giphy.com/media/1n6V5fLTLUkikx7lbN/giphy.gif" width="300"/>
+</p>
+
 ---
 
 <h3 align="center">Connect with me:</h3>
