@@ -1,39 +1,51 @@
-<h1 align="center">Hi 👋, My name is Dhruv Gupta</h1>
-<h3 align="center">An App developer & exploring Data field</h3>
+
+
+<h1 align="center">Hi 👋, I'm Dhruv Gupta</h1>
+<h3 align="center">App Developer & Data Explorer</h3>
 <h4 align="center">Converting Ideas into Tech Solutions</h4>
+
 <br/>
 
-I practice Leetcode and CF on regular basis & take up app dev projects as well. I love to attend technical meet-ups and connect with tech enthusiasts in industry.
-I am a tech Evangelist and I'm pretty much interested in coding. 
-My favourite languages are : CPP, python.
-I also know how to built Android and iOS apps using flutter.
-
-I started Code-charm. The platform where students can connect with peers and also learn new technologies and discuss problems among them. I have taught up to 100+ students up till now. 
-
-I love public speaking. I like to take webinars and workshops as well.
-
-If you want to get some tips OR you want to learn to code DM me or you can hit me up on my Email or Connect with me on Linkedin.
-
-- 😉 If you want and App or Website, Do connect with me. Let's Discuss.
-
-- 🌏 I’m based in **India**
-
-- 📨 You can contact me at **guptadhruv1345@gmail.com**
-
-- 🌱 I’m currently learning **Flutter**
-
-- 📝 I regularly write articles on [https://medium.com/@guptadhruv1345](https://medium.com/@guptadhruv1345)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dhruv1312gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruv1312gupta" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dhruv-gupta-4381921b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv-gupta-4381921b5" height="30" width="40" /></a>
-<a href="https://medium.com/@guptadhruv1345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@guptadhruv1345" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dhruvguptajee100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhruvguptajee100" height="30" width="40" /></a>
+<p align="center">
+    <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+I practice Leetcode and Codeforces regularly and take up app development projects. I love attending technical meet-ups and connecting with tech enthusiasts. I'm a tech evangelist and passionate about coding. 
 
+My favorite languages are C++ and Python. I also build Android and iOS apps using Flutter.
+
+I started Code-charm, a platform where students can connect with peers, learn new technologies, and discuss problems. I've taught over 100 students.
+
+I love public speaking and enjoy giving webinars and workshops.
+
+If you want tips or want to learn to code, DM me or hit me up via email or LinkedIn.
+
+- 🌏 Based in **India**
+- 🌱 Currently learning **Flutter**
+- 📝 I regularly write articles on [Medium](https://medium.com/@guptadhruv1345)
+- 📧 Contact me at **guptadhruv1345@gmail.com**
+
+---
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+    <a href="https://twitter.com/dhruv1312gupta" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/>
+    </a>
+    <a href="https://linkedin.com/in/dhruv-gupta-4381921b5" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+    </a>
+    <a href="https://medium.com/@guptadhruv1345" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40"/>
+    </a>
+    <a href="https://www.leetcode.com/dhruvguptajee100" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
+    </a>
+</p>
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
@@ -88,11 +100,11 @@ If you want to get some tips OR you want to learn to code DM me or you can hit m
 </a> 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv1345&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv1345&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruv1345)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv1345&" alt="dhruv1345" /></p>
 
 [![An image of @dhruv1345's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhruv1345)](https://holopin.io/@dhruv1345)
-
