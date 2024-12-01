@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Dhruv Gupta</h1>
-<h3 align="center">JavaScript Developer && App Developer && Machine Learning Engineer</h3>
+<h3 align="center">JavaScript, Flutter Developer && Machine Learning Engineer</h3>
 <h4 align="center">Converting Ideas into Tech Solutions</h4>
 
 <br/>
